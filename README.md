@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240126
+# Name: SAADHANA A
+# Date: 03/09/2026
 
 
 # AIM:
@@ -20,7 +20,6 @@ To develop the Course Reservation and Exam Registration System using Star UML
 5.A combined system is needed to allow students to seamlessly register for courses and corresponding exams with real-time validation, schedule checks, seat availability, and automatic eligibility verification.
 
 6.The system must provide secure, role-based access for students, faculty, and administrators while ensuring timely notifications, analytics, and integration with academic databases for transparent and efficient academic management.
-UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
@@ -40,9 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
+<img width="1336" height="1177" alt="USECASE" src="https://github.com/user-attachments/assets/1e5b8896-c6ac-4fcd-8ba7-35b3d0a88e68" />
 
 
 # CLASS DIAGRAM
@@ -60,6 +57,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="665" height="485" alt="Screenshot 2026-09-04 111137" src="https://github.com/user-attachments/assets/004f82e9-6cf5-40af-a623-361429831a3c" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="653" height="459" alt="Screenshot 2026-09-04 111201" src="https://github.com/user-attachments/assets/6a0c150b-690c-48c6-9749-aa6808ec856d" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,10 +79,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
-
-
+<img width="495" height="284" alt="Screenshot 2026-09-04 111214" src="https://github.com/user-attachments/assets/28c151df-8cb4-4b81-be60-3687832adbeb" />
 
 
 # ACTIVITY DIAGRAM:
@@ -98,14 +95,12 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="477" height="570" alt="Screenshot 2026-09-04 111232" src="https://github.com/user-attachments/assets/f8f5fbe7-1ea4-4a53-b0bc-247a0f9c315b" />
 
 
 # SEQUENCE DIAGRAM
 
-A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
-
-a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
@@ -119,11 +114,9 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+<img width="656" height="546" alt="Screenshot 2026-09-04 111304" src="https://github.com/user-attachments/assets/b73533aa-ddd4-4661-b6e6-cdd42788e1c5" />
 
 
 # RESULT
-
 Thus the project to develop Course Reservation and Exam Registration system was developed using Star UML Software is done successfully.
 
